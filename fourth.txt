@@ -2,3 +2,6 @@ hello world
 
 
 Updated for fast forward merge from UI
+
+
+updated for merge commit
