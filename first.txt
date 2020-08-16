@@ -4,3 +4,6 @@ new changes
 
 
 Working on updated fast forward
+
+
+Updated for merge commit
